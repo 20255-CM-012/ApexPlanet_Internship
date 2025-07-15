@@ -12,7 +12,7 @@
             .main {
                 width: 900px;
                 height: auto;
-                margin: 40px auto;
+                margin: auto;
                 padding: 20px;
                 background-color: #BDDDFC;
                 border: 4px solid #6A89A7;
