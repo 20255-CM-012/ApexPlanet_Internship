@@ -22,26 +22,23 @@
             li{
                 font-size: 25px;
             }
-
         </style>
-    </head>
-    <body>
-        <?php
-        echo '
-            <div class="main">
-            <h1 align="center">My Internship Task-1</h1>
-            <h2>My task delivarables:</h2>
-            <ul>
-                <li>Downloading and installing XAMPP server.</li>
-                <li>Verifying the installation by running Apache and MySQL services and accessing http://localhost in the Google Chrome.</li>
-                <li>Choosing a code editor like Visual Studio Code and executing the code in the browser.</li>
-                <li>A working local server environment.</li>
-                <li>A Git repository with an initial commit.</li>
-            </ul>
-            </div>
-            ';
-        ?>
-        
-    </body>
-
+        </head>
+        <body>
+            <?php
+            echo '
+                <div class="main">
+                <h1 align="center">My Internship Task-1</h1>
+                <h2>My task delivarables:</h2>
+                <ul>
+                    <li>Downloading and installing XAMPP server.</li>
+                    <li>Verifying the installation by running Apache and MySQL services and accessing http://localhost in the Google Chrome.</li>
+                    <li>Choosing a code editor like Visual Studio Code and executing the code in the browser.</li>
+                    <li>A working local server environment.</li>
+                    <li>A Git repository with an initial commit.</li>
+                </ul>
+                </div>
+                ';
+            ?>
+        </body>
 </html>
